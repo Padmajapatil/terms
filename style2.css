@@ -1,0 +1,10 @@
+.header-section{
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/07/17/28/london-1806338_960_720.jpg');
+    height: 80vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-main-heading{
+    margin-top: 250px;
+    font-size: 50px;
+}
