@@ -1,5 +1,5 @@
 .header-section{
-    background-image: url('https://cdn.pixabay.com/photo/2016/11/07/17/28/london-1806338_960_720.jpg');
+    background-image:url('https://cdn.pixabay.com/photo/2016/11/07/17/28/london-1806338_960_720.jpg');
     height: 80vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -7,4 +7,19 @@
 .about-main-heading{
     margin-top: 250px;
     font-size: 50px;
+}
+.title-heading{
+    font-size: 48px;
+    line-height: 57px;
+    font-weight: 700;
+}
+.section-who{
+    margin-top: 100px;
+}
+.team-card-background{
+    background-color: rgba(225, 225, 225, 0.929);
+    color: black;
+}
+.height-card{
+   height: 270px;
 }
